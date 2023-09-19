@@ -143,21 +143,19 @@ li{
 /* section */
 
 .img{
-    /* Debug */
-    background-color: purple;
-   min-height: 300px;
+   
+    
     width: 70%;
 }
 
 .text{
-    /* Debug */
-    background-color: lightskyblue;
+    
     width: 30%;
 }
 
 .back-grey{
     /* Debug */
-    background-color: lightgray;
+    background-color: #f6f6f6;
     /* padding: 2rem; */
     
     
@@ -167,8 +165,8 @@ li{
 
 .green-block{
     /* Debug */
-    min-height: 700px;
-    background-color: green;
+    /* min-height: 700px;
+    background-color: green; */
     
 
 }
